@@ -1,0 +1,1 @@
+# MY_EGG_STORE
