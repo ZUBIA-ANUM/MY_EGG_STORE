@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golden Eggify Fresh - Quality Eggs Delivered</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fffbea;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: #e0a100;
+        }
+        p {
+            font-size: 18px;
+        }
+        .box {
+            background: white;
+            padding: 20px;
+            margin: auto;
+            width: 60%;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px #ddd;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h1>Welcome to Eggify Fresh</h1>
+        <p>Premium quality fresh eggs — wholesale & retail supply.</p>
+        <p>We deliver clean, farm-fresh, healthy eggs at your doorstep.</p>
+        <h3>📞 Contact / Order: 0336-2015373</h3>
+    </div>
+</body>
+</html>
